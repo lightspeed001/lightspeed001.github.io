@@ -1,8 +1,8 @@
 title: Lightspeed001
-description: "From Pupil to Master"
+description: ""
 author:
   name: "Lightspeed001"
-  email: "kazzytheman345@gmail.com"
+  email: "kat@reanimate.io"
   url: "lightspeed001.github.io"
 
 baseurl: /
@@ -10,8 +10,8 @@ baseurl: /
 source: .
 destination: ./_site
 permalink: /:title
-paginate: 3
-paginate_path: /page/:num/
+#paginate: 3
+#paginate_path: /page/:num/
 
 defaults:
   -
@@ -29,4 +29,4 @@ plugins:
 
 # Custom variables
 owner : "lightspeed001"
-year : "2020"
+year : "2023"
